@@ -1,7 +1,11 @@
 # Can Multimodal Large Language Models Be Guided to Improve Industrial Anoamly Detection?
-## Code is coming soon...
 
 
+We propose an inspiring multimodal CoT framework named Cantor, which features a perceptual decision architecture that effectively integrates visual context and logical reasoning to solve visual reasoning tasks.
+
+<p align="center" width="100%">
+<a ><img src="Figures\model.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
 
 
 
