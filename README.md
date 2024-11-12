@@ -8,7 +8,6 @@ We propose an multi-experts framework named Echo, which comprises four expert mo
 </p>
 
 
-
 ## 👨‍💻 Todo
 - [ ] Release the evaluation code
 - [ ] Release the paper
@@ -22,3 +21,13 @@ We would like to acknowledge the use of code snippets from various open-source l
 [FAISS](https://github.com/facebookresearch/faiss)
 
 [RAR](https://github.com/Liuziyu77/RAR)
+
+[Qwen2-VL](https://github.com/QwenLM/Qwen2-VL)
+
+[LLaVA-VL](https://github.com/LLaVA-VL)
+
+[MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)
+
+[InternVL](https://github.com/OpenGVLab/InternVL)
+
+
