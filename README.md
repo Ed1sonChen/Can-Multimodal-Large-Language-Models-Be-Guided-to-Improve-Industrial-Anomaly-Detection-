@@ -1,9 +1,9 @@
 # Can Multimodal Large Language Models Be Guided to Improve Industrial Anoamly Detection?
 
 
-We propose an inspiring multimodal CoT framework named Cantor, which features a perceptual decision architecture that effectively integrates visual context and logical reasoning to solve visual reasoning tasks.
+We propose an multi-experts framework named Echo, which comprises four expert modules working together to guide open source MLLMs to improve anomaly detection.
 
-<p align="center" width="100%">
+<p align="center" width="80%">
 <a ><img src="Figures\model.png" alt="overview" style="width: 100%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
