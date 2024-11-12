@@ -6,8 +6,8 @@
 
 
 ## 👨‍💻 Todo
-- [] Release the evaluation code
-- [] Release the paper
+- [ ] Release the evaluation code
+- [ ] Release the paper
 
 
 ## Acknowledgements ##
