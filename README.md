@@ -1,5 +1,8 @@
 # Can Multimodal Large Language Models Be Guided to Improve Industrial Anoamly Detection?
 
+This is the official implementation of paper "Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces".
+
+> Zhiling Chen*, Hanning Chen, Mohsen Imani, Farhad Imani.
 
 We propose an multi-experts framework named Echo, which comprises four expert modules working together to guide open source MLLMs to improve anomaly detection.
 
