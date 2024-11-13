@@ -1,6 +1,6 @@
 # Can Multimodal Large Language Models Be Guided to Improve Industrial Anoamly Detection?
 
-This is the official implementation of paper "Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces".
+This is the official implementation of paper "Can Multimodal Large Language Models Be Guided to Improve Industrial Anoamly Detection?".
 
 > Zhiling Chen*, Hanning Chen, Mohsen Imani, Farhad Imani.
 
